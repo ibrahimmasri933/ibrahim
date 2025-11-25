@@ -1,0 +1,5 @@
+{
+  "name": "PiBot Commander",
+  "description": "A high-performance web interface for controlling a Raspberry Pi 5 robot with dual camera feeds (Visual/Thermal) and manual/autonomous modes.",
+  "requestFramePermissions": []
+}
